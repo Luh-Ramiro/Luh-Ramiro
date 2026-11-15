@@ -1,11 +1,11 @@
-<h1 align="center">𝙾𝚕𝚊́, 𝚎𝚞 𝚜𝚘𝚞 𝚊 𝙻𝚞𝚌𝚒𝚟𝚊̂𝚗𝚒𝚊 𝚁𝚊𝚖𝚒𝚛𝚘 👋🏽</h1>
+<h1 align="center">Olá, eu sou a Lucivânia Ramiro </h1>
 
-<h3 align="center">💻 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛𝚊 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 | 𝙹𝚊𝚟𝚊 (𝚂𝚙𝚛𝚒𝚗𝚐 𝙱𝚘𝚘𝚝) & 𝚁𝚎𝚊𝚌𝚝 (𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝) 🚀</h3>
+<h3 align="center">💻 Desenvolvedora Full Stack | Java (Spring Boot) & React (TypeScript) 🚀</h3>
 
 <p align="center">
-  📍 𝙹𝚘𝚊̃𝚘 𝙿𝚎𝚜𝚜𝚘𝚊, 𝙿𝚊𝚛𝚊𝚒́𝚋𝚊, 𝙱𝚛𝚊𝚜𝚒𝚕<𝚋𝚛>   
-  🎓 𝙶𝚛𝚊𝚍𝚞𝚊𝚗𝚍𝚊 𝚗𝚘 𝚞́𝚕𝚝𝚒𝚖𝚘 𝚙𝚎𝚛𝚒́𝚘𝚍𝚘 𝚍𝚎 𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 𝚙𝚊𝚛𝚊 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝 (𝚄𝙽𝙸𝙴𝚂𝙿)<𝚋𝚛>  
-  🤖 𝙿𝚘́𝚜-𝚐𝚛𝚊𝚍𝚞𝚊𝚗𝚍𝚊 𝚎𝚖 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 & 𝙸𝙰
+  📍 João Pessoa, Paraíba, Brasil<br>
+  🎓 Graduanda no último período de Sistemas para Internet (UNIESP)<br>
+  🤖 Pós-graduanda em Engenharia de Software & IA
 </p>
 
 ---
