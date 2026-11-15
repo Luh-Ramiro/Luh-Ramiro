@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Lucivânia Ramiro </h1>
+<h1 align="center">𝙾𝚕𝚊́, 𝚎𝚞 𝚜𝚘𝚞 𝚊 𝙻𝚞𝚌𝚒𝚟𝚊̂𝚗𝚒𝚊 𝚁𝚊𝚖𝚒𝚛𝚘 👋🏽</h1>
 
 <h3 align="center">💻 Desenvolvedora Full Stack | Java (Spring Boot) & React (TypeScript) 🚀</h3>
 
@@ -13,7 +13,10 @@
 ### 💡 Sobre mim
 
 <p>
-  𝚂𝚘𝚞 𝚊𝚙𝚊𝚒𝚡𝚘𝚗𝚊𝚍𝚊 𝚙𝚘𝚛 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊 𝚎 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚍𝚎 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 ⚡, 𝚞𝚗𝚒𝚗𝚍𝚘 𝚊 𝚙𝚛𝚊́𝚝𝚒𝚌𝚊 𝚍𝚎 𝚖𝚎𝚛𝚌𝚊𝚍𝚘 𝚌𝚘𝚖 𝚞𝚖𝚊 𝚋𝚊𝚜𝚎 𝚊𝚌𝚊𝚍𝚎̂𝚖𝚒𝚌𝚊 𝚜𝚘́𝚕𝚒𝚍𝚊. 𝙰𝚝𝚞𝚊𝚕𝚖𝚎𝚗𝚝𝚎, 𝚎𝚜𝚝𝚘𝚞 𝚌𝚞𝚛𝚜𝚊𝚗𝚍𝚘 𝚘 𝚞́𝚕𝚝𝚒𝚖𝚘 𝚙𝚎𝚛𝚒́𝚘𝚍𝚘 𝚍𝚎 <𝚜𝚝𝚛𝚘𝚗𝚐>𝚂𝚒𝚜𝚝𝚎𝚖𝚊𝚜 𝚙𝚊𝚛𝚊 𝙸𝚗𝚝𝚎𝚛𝚗𝚎𝚝 𝚗𝚘 𝚄𝙽𝙸𝙴𝚂𝙿</𝚜𝚝𝚛𝚘𝚗𝚐> 𝚎 𝚖𝚎 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚗𝚍𝚘 𝚎𝚖 <𝚜𝚝𝚛𝚘𝚗𝚐>𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 — 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘, 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚎 𝙰𝚛𝚚𝚞𝚒𝚝𝚎𝚝𝚞𝚛𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚌𝚘𝚖 𝙸𝚗𝚝𝚎𝚕𝚒𝚐𝚎̂𝚗𝚌𝚒𝚊 𝙰𝚛𝚝𝚒𝚏𝚒𝚌𝚒𝚊𝚕</𝚜𝚝𝚛𝚘𝚗𝚐>.  </𝚙> <𝚙>   𝙼𝚒𝚗𝚑𝚊 𝚜𝚝𝚊𝚌𝚔 𝚙𝚛𝚒𝚗𝚌𝚒𝚙𝚊𝚕 𝚐𝚒𝚛𝚊 𝚎𝚖 𝚝𝚘𝚛𝚗𝚘 𝚍𝚎 <𝚜𝚝𝚛𝚘𝚗𝚐>𝙹𝚊𝚟𝚊 (𝚂𝚙𝚛𝚒𝚗𝚐 𝙱𝚘𝚘𝚝)</𝚜𝚝𝚛𝚘𝚗𝚐> 𝚗𝚘 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 𝚎 <𝚜𝚝𝚛𝚘𝚗𝚐>𝚁𝚎𝚊𝚌𝚝 𝚌𝚘𝚖 𝚃𝚢𝚙𝚎𝚂𝚌𝚛𝚒𝚙𝚝</𝚜𝚝𝚛𝚘𝚗𝚐> 𝚗𝚘 𝚏𝚛𝚘𝚗𝚝𝚎𝚗𝚍, 𝚌𝚛𝚒𝚊𝚗𝚍𝚘 𝚜𝚘𝚕𝚞𝚌̧𝚘̃𝚎𝚜 𝚛𝚘𝚋𝚞𝚜𝚝𝚊𝚜, 𝚎𝚜𝚌𝚊𝚕𝚊́𝚟𝚎𝚒𝚜 𝚎 𝚏𝚘𝚌𝚊𝚍𝚊𝚜 𝚎𝚖 𝚎𝚗𝚝𝚛𝚎𝚐𝚊𝚛 𝚞𝚖𝚊 𝚎𝚡𝚌𝚎𝚕𝚎𝚗𝚝𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎̂𝚗𝚌𝚒𝚊 𝚍𝚎 𝚞𝚜𝚞𝚊́𝚛𝚒𝚘 🎯.
+  Sou apaixonada por tecnologia e desenvolvimento de software ⚡, unindo a prática de mercado com uma base acadêmica sólida. Atualmente, estou cursando o último período de <strong>Sistemas para Internet no UNIESP</strong> e me especializando em <strong>Engenharia Full Stack — Desenvolvimento, Engenharia e Arquitetura de Software com Inteligência Artificial</strong>. 
+</p>
+<p>
+  Minha stack principal gira em torno de <strong>Java (Spring Boot)</strong> no backend e <strong>React com TypeScript</strong> no frontend, criando soluções robustas, escaláveis e focadas em entregar uma excelente experiência de usuário 🎯.
 </p>
 
 ---
