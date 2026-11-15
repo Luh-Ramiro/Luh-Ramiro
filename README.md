@@ -3,8 +3,8 @@
 <h3 align="center">💻 Desenvolvedora Full Stack | Java (Spring Boot) & React (TypeScript) 🚀</h3>
 
 <p align="center">
-  📍 João Pessoa, Paraíba, Brasil &nbsp;&bull;&nbsp;
-  🎓 Graduanda no último período de Sistemas para Internet (UNIESP) &nbsp;&bull;&nbsp;
+  📍 João Pessoa, Paraíba, Brasil<br>
+  🎓 Graduanda no último período de Sistemas para Internet (UNIESP)<br>
   🤖 Pós-graduanda em Engenharia de Software & IA
 </p>
 
