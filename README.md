@@ -16,7 +16,7 @@
   Sou apaixonada por tecnologia e desenvolvimento de software ⚡, unindo a prática de mercado com uma base acadêmica sólida. Atualmente, estou cursando o último período de <strong>Sistemas para Internet no UNIESP</strong> e me especializando em <strong>Engenharia Full Stack — Desenvolvimento, Engenharia e Arquitetura de Software com Inteligência Artificial</strong>. 
 </p>
 <p>
-  Minha stack principal gira em torno de <strong>Java (Spring Boot)</strong> no backend e <strong>React com TypeScript</strong> no frontend, criando soluções robustas, escaláveis e focadas em entregar uma excelente experiência de usuário 🎯.
+  💻 Minha stack principal gira em torno de <strong>Java (Spring Boot)</strong> no backend e <strong>React com TypeScript</strong> no frontend, criando soluções robustas, escaláveis e focadas em entregar uma excelente experiência de usuário 🎯.
 </p>
 
 ---
